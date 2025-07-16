@@ -11,9 +11,11 @@
 -->
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brenocbmnz&label=Profile%20views&color=0e75b6&style=flat" alt="brenocbmnz" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brenocbmnz" alt="brenocbmnz" /></a> </p>
 
 - 🔭 I’m currently working on [this project](https://github.com/brenocbmnz/sistema-req-provas)
 
@@ -27,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenocbmnz&show_icons=true&locale=en&layout=compact" alt="brenocbmnz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brenocbmnz&show_icons=true&locale=en" alt="brenocbmnz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brenocbmnz&" alt="brenocbmnz" /></p>
