@@ -1,7 +1,7 @@
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">Full Stack - Computer Science Student - Intern</h3>
 
 
-- 🔭 I’m currently working on [this project](https://github.com/brenocbmnz/sistema-req-provas)
+I’m currently working on [a system for a school that helps track the info and generate reports of students that need to retake tests](https://github.com/brenocbmnz/sistema-req-provas)
 
 
 <h3 align="left">Connect with me:</h3>
